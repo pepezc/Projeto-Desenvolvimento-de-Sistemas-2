@@ -14,7 +14,7 @@ Oferecer o serviço de limpeza à domicílio, onde o contratante através do sis
 Baseado nas informações o sistema disponibiliza um contratado ou uma 	equipe para se descolar até o local alvo realizar o serviço de 	limpeza.
   
 Link do Github
-https://github.com/pepezc/Projeto-Desenvolvimento-de-Sistemas-2
+https://github.com/pepezc/Projeto-Desenvolvimento-de-Sistemas-2.git
 
 Componentes do Grupo:
-Pedro Zorzella e Leonardo
+Pedro Zorzella e Leonardo Tseng
