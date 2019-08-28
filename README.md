@@ -3,18 +3,16 @@ Projeto da disciplina de Desenvolvimento de Sistemas 2
 
 =================================================================================
 
-Tema: Plataforma de Contratação de Serviços de Terceiros
+Tema: Sistema para empresa de tênis
 
 Cenário:
-Plataforma de Contratação de Serviços de Limpeza à domicílio.
+Plataforma para assinatura do tênis, aquisição ou solicitação de troca. 
   
-Objetivo do Sistema:
-Cadastrar usuários e prestadores de serviço.
-Oferecer o serviço de limpeza à domicílio, onde o contratante através do sistema escolhe as características do serviço a ser contratado, baseado no tipo do ímovel, tamanho, complexidade, etc.
-Baseado nas informações o sistema disponibiliza um contratado ou uma 	equipe para se descolar até o local alvo realizar o serviço de 	limpeza.
+Objetivo do Sistema: Cadastrar usuários. Oferecer produtos para usuário escolher, disponibilizar escolha de aquisição única vez ou assinatura mensais (podendo solicitar a devolução para fabrica e trocar um novo tênis todo mês). Oferecer campo para o usuário solicitar a troca do tênis para novo modelo. 
+
   
 Link do Github
 https://github.com/pepezc/Projeto-Desenvolvimento-de-Sistemas-2.git
 
 Componentes do Grupo:
-Pedro Zorzella e Leonardo Tseng
+Pedro Zorzella, Leonardo Tseng e Henrique Silveira
